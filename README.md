@@ -39,4 +39,4 @@ Lista08-12690963-14601646/
 
    Paolla Queiroz NUSP:14601646   email: paolla@usp.br
    
-   Carolina Duarte NUSP:12690963    email: carolinatavaresduarte@usp.br
+   Carolina Tavares Duarte NUSP:12690963    email: carolinatavaresduarte@usp.br
